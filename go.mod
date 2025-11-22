@@ -1,3 +1,3 @@
-module mFmt
+module mfmt
 
 go 1.25.4
